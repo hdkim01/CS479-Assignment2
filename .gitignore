@@ -149,8 +149,5 @@ cython_debug/
 # Editors
 .vscode
 
-# Hydra logs
-outputs
-
 # Data
 data/*
