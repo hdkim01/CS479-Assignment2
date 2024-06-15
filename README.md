@@ -22,6 +22,14 @@
 #### Due: October 9, 2023 (Monday) 23:59 KST
 #### Where to Submit: Gradescope
 
+## Submitted
+
+- The folder `torch_nerf` that contains every source code file;
+- A folder named `{NAME}_{STUDENT_ID}_renderings` containing the renderings (`.png` files) from the **test views** used for computing evaluation metrics;
+- A text file named `{NAME}_{STUDENT_ID}.txt` containing **a comma-separated list of LPIPS, PSNR, and SSIM** from quantitative evaluation;
+- The checkpoint file named `{NAME}_{STUDENT_ID}.pth` used to produce the above metrics.
+
+
 ## Abstract
 
 The introduction of [Neural Radiance Fields (NeRF)](https://arxiv.org/abs/2003.08934) was a massive milestone in image-based, neural rendering literature.
