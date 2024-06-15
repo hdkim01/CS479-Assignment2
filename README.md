@@ -24,16 +24,16 @@
 
 ## Submitted
 
-- The folder `torch_nerf` that contains every source code file
+- The folder `torch_nerf` that contains every source code file.
   
     -> `torch_nerf`
-- A folder named `{NAME}_{STUDENT_ID}_renderings` containing the renderings (`.png` files) from the **test views** used for computing evaluation metrics
+- A folder named `{NAME}_{STUDENT_ID}_renderings` containing the renderings (`.png` files) from the **test views** used for computing evaluation metrics.
   
     -> `outputs/2024-06-14/18-05-00/render/test_views/20240614-234043`
-- A text file named `{NAME}_{STUDENT_ID}.txt` containing **a comma-separated list of LPIPS, PSNR, and SSIM** from quantitative evaluation
+- A text file named `{NAME}_{STUDENT_ID}.txt` containing **a comma-separated list of LPIPS, PSNR, and SSIM** from quantitative evaluation.
   
     -> `outputs/2024-06-14/18-05-00/render/evaluate.txt`
-- The checkpoint file named `{NAME}_{STUDENT_ID}.pth` used to produce the above metrics
+- The checkpoint file named `{NAME}_{STUDENT_ID}.pth` used to produce the above metrics.
   
     -> `outputs/2024-06-14/18-05-00/ckpt/ckpt_000499.pth`
 
