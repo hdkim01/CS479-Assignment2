@@ -22,7 +22,7 @@
 #### Due: October 9, 2023 (Monday) 23:59 KST
 #### Where to Submit: Gradescope
 
-## My Submmisions
+## My Submissions
 
 - The folder `torch_nerf` that contains every source code file.
   
